@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648097154556",
+    "project_id": "growapp-z4k9te",
+    "storage_bucket": "growapp-z4k9te.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648097154556:android:2704c3e58831ca23129e79",
+        "android_client_info": {
+          "package_name": "br.com.growapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrxwmycKjMb1qEISrak9WLSpFcxmKHDEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
